@@ -63,7 +63,7 @@ section[data-testid="stSidebar"] {
 # -------------------------
 # HEADER
 # -------------------------
-st.markdown('<div class="title"> 🎬 Churn AI System</div>', unsafe_allow_html=True)
+st.markdown('<div class="title"> 🎬 Customer Churn Prediction</div>', unsafe_allow_html=True)
 st.markdown('<div class="subtitle">AI Powered Customer Risk Analysis</div>', unsafe_allow_html=True)
 
 # -------------------------
